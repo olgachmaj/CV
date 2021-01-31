@@ -87,7 +87,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Interests
 
-Unity game engine (creating enviroments)
-3d graphics software (especially modelling and texturing in blender)
-3d printing
-Digital Painting
+- Unity game engine (creating enviroments)
+- 3d graphics software (especially modelling and texturing in blender)
+- 3d printing
+- Digital Painting
