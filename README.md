@@ -1,6 +1,21 @@
-## Your Name
+## Olga Chmaj
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+##About
+I am a enthusiastic, deliberate and perserverant Software Engineer in training who loves to create and to solve problems.
+
+##Background
+
+After spending two years on self-driven learing to improve my language skills while working 
+as a Tourist Guide, I have made decision of moving away from my home country.
+
+In role of a care assistant I have shown ability to quickly adapt and solve problems in various,
+often challenging settings while maintaining profesional level of dementia care.
+
+Working in a care sector has allowed me to develop my communication & time management skills
+which prove helpful when maintaining and writing code with others and independently.
+
+
+
 
 ## Projects
 
@@ -9,17 +24,6 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
@@ -42,23 +46,48 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2021 to June 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Vocational Technical High School of Media Publishing and Design (August 2013 to May 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Achieved 90% score at (AU.54.) Print and digital media design qualification.
+
+- 
+
+## Experience
+
+**Helping Hands** (January 2019 to February 2020)  
+_Care Assistant_
+
+- Working with other health and social care professionals to provide
+  individual care and development plans. 
+
+
+**Vox Travel** (May 2017 to January 2019)  
+_Tourist Guide_
+
+- Managing groups of up to thirty people: being able to keep the group focused,
+  making sure no one gets lost or left behind.
+
+- Making sure that the group adheres and follows local laws,
+  regulations, or rules of specific destinations.
+
+- Escorting individuals or groups on sightseeing trips: providing
+  information about the history and culture of the places they visit,
+  describing points of interests, and answering questions tourists may have.
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Interests
 
-Any cool stuff that makes you a super part of a software development team
+Unity game engine (creating enviroments)
+3d graphics software (especially modelling and texturing in blender)
+3d printing
+Digital Painting
