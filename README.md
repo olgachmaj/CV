@@ -1,9 +1,9 @@
 ## Olga Chmaj
 
-##About
+## About
 I am a enthusiastic, deliberate and perserverant Software Engineer in training who loves to create and to solve problems.
 
-##Background
+## Background
 
 After spending two years on self-driven learing to improve my language skills while working 
 as a Tourist Guide, I have made decision of moving away from my home country.
