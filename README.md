@@ -3,15 +3,20 @@
 ## About
 I am a enthusiastic, deliberate and perserverant Software Engineer in training who loves to create and to solve problems.
 
+I take a great pleasure in self improvement and aim to expand my perspective through new experiences and learning about different technologies.
+
+I have discovered coding when I learned basics of JavaScript and HTML at the age of ten, and been enthusiastic about tech ever since. 
+During my time at high school I took part in various tech related workshops (JavaScript, Adobe Illustrator, Social Media Advertising) and pursued my hobbies, which are also mostly tech centric (3d graphic software, Unity game engine).
+
 ## Background
 
 After spending two years on self-driven learing to improve my language skills while working 
-as a Tourist Guide, I have made decision of moving away from my home country.
+as a Tourist Guide, I have made a decision of moving away from my home country.
 
-In role of a care assistant I have shown ability to quickly adapt and solve problems in various,
+In role of a Care Assistant I have shown ability to quickly adapt and solve problems in various,
 often challenging settings while maintaining profesional level of dementia care.
 
-Working in a care sector has allowed me to develop my communication & time management skills
+Working in a care sector has allowed me to develop communication & time management skills
 which prove helpful when maintaining and writing code with others and independently.
 
 
@@ -66,6 +71,10 @@ _Care Assistant_
 
 - Working with other health and social care professionals to provide
   individual care and development plans. 
+  
+- Encouraging clients to participate in social and recreational activities. 
+
+- Being responsible for administering medication and keeping logs on daily intakes.
 
 
 **Vox Travel** (May 2017 to January 2019)  
