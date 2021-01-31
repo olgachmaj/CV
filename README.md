@@ -6,7 +6,6 @@ I am a enthusiastic, deliberate and perserverant Software Engineer in training w
 I take a great pleasure in self improvement and aim to expand my perspective through new experiences and learning about different technologies.
 
 I have discovered coding when I learned basics of JavaScript and HTML at the age of ten, and been enthusiastic about tech ever since. 
-During my time at high school I took part in various tech related workshops (JavaScript, Adobe Illustrator, Social Media Advertising) and pursued my hobbies, which are also mostly tech centric (3d graphic software, Unity game engine).
 
 ## Background
 
@@ -62,7 +61,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Achieved 90% score at (AU.54.) Print and digital media design qualification.
 
-- 
+- During my time at high school I took part in various tech related workshops (JavaScript, Adobe Illustrator, Social Media Advertising) and pursued my hobbies, which are also     mostly tech centric (3d graphic software, Unity game engine).
 
 ## Experience
 
