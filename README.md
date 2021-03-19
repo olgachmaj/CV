@@ -29,7 +29,8 @@ which prove helpful when maintaining and writing code with others and independen
 | **Notes App**                | Serverless tool that helps you remember. | Pure vanilla JavaScript|
 | **MakersBnB**                | Holiday rental booking webapp | Ruby, Sinatra, JavaScript. Capybara, Rspec|
 | **Thermostatly.js**          | Thermostat control app | JavaScript, JQuery, Jasmine|
-| **Messagesy.js - in progress **             | Messaging Whats-App like web app| JavaScript,Jasmine,Node.js,React| 
+| **Messagesy.js - in progress **             | Messaging Whats-App like web app| JavaScript,Jasmine,Node.js,Express,React| 
+| **Takeaway**                 | Takeaway sms confirmation command line app | Ruby, Twilio API|
 
 
 ## Skills
