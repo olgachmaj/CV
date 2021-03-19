@@ -29,6 +29,7 @@ which prove helpful when maintaining and writing code with others and independen
 | **Notes App**                | Serverless tool that helps you remember. | Pure vanilla JavaScript|
 | **MakersBnB**                | Holiday rental booking webapp | Ruby, Sinatra, JavaScript. Capybara, Rspec|
 | **Thermostatly.js**          | Thermostat control app | JavaScript, JQuery, Jasmine|
+| **Messagesy.js - in progress **             | Messaging Whats-App like web app| JavaScript,Jasmine,Node.js,React| 
 
 
 ## Skills
@@ -96,7 +97,7 @@ _Tourist Guide_
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Interests
-
+- Open Source Contribution 
 - Unity game engine (creating enviroments)
 - 3d graphics software (especially modelling and texturing in blender)
 - 3d printing
