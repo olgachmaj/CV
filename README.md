@@ -31,6 +31,7 @@ which prove helpful when maintaining and writing code with others and independen
 | **Thermostatly.js**          | Thermostat control app | JavaScript, JQuery, Jasmine|
 | **Messagesy.js - in progress **             | Messaging Whats-App like web app| JavaScript,Jasmine,Node.js,Express,React| 
 | **Takeaway**                 | Takeaway sms confirmation command line app | Ruby, Twilio API|
+| **News Summary**             | News Article summarization serverless single page app| JavaScript, Guardian API, Aylien API|
 
 
 ## Skills
