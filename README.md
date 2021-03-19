@@ -26,7 +26,9 @@ which prove helpful when maintaining and writing code with others and independen
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Notes App**                | Serverless tool that helps you remember. | Pure vanilla JavaScript|
+| **MakersBnB**                | Holiday rental booking webapp | Ruby, Sinatra, JavaScript. Capybara, Rspec|
+| **Thermostatly.js**          | Thermostat control app | JavaScript, JQuery, Jasmine|
 
 
 ## Skills
